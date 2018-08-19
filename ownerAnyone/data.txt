@@ -1,0 +1,5 @@
+AURA   address: https://etherscan.io/address/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814#code
+
+call func lockBalances to lock balancesUploaded £¬nobody can allocate token
+
+or call unlockToken to unlock lock£¬allow transaction begin before owner finish token allocate

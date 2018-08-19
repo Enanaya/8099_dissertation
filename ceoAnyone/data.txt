@@ -1,0 +1,6 @@
+EtherCarteladdress:https://etherscan.io/address/0x5088b94cf8a1143eb228b6d3f008350ca742ddc2#code
+
+operation: 1.fun :seedmarket 0x000000000000000000000000000000000000000000000000000000000000012c  
+ https://etherscan.io/tx/0x461e8efc18eac94a704fae442b70c2358d410ee585aa26947daa0685d43e34f0
+2.fun getFreeKilo
+3.sellDrug
